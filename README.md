@@ -10,7 +10,6 @@ This project implements a smart contract named **SimpleSwap**, which replicates 
 ## Deployed Contract on Sepolia
 
 **Contract Address:**  
-0xCA17539F40d1b7650C4251D7B6b064ac23818A42
 Contract is verified and published on Etherscan
 [0xCA17539F40d1b7650C4251D7B6b064ac23818A42](https://sepolia.etherscan.io/address/0xCA17539F40d1b7650C4251D7B6b064ac23818A42#code)
 
