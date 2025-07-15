@@ -1,7 +1,7 @@
 LAST UPDATED: 
 I use the platform to update the latest TP3 data:
 
-The transaction with hash 0xc0aae46581ab99dd0f4a91e9abe1ae7970a2f8f3ac35260805fc6066b79715a6 successfully executed the verify function on the SwapVerifier contract (0x9f8F02DAB384DDdf1591C3366069Da3Fb0018220).
+The transaction with hash 0xc0aae46581ab99dd0f4a91e9abe1ae7970a2f8f3ac35260805fc6066b79715a6 successfully executed the verify function on the SwapVerifier contract (0x9f8F02DAB384DDdf1591C3366069Da3Fb0018220). (https://sepolia.etherscan.io/address/0x6bD1DD3b4879Df63A9328B4A082Fbc349B175649)
 
 This confirms that my SimpleSwap contract (0x6bD1DD3b4879Df63A9328B4A082Fbc349B175649), in conjunction with my custom ERC-20 tokens, LeoscaryTokenA (0x76799844273304F4A95568A42CEB84B09b5AEab3) and LeoscaryTokenB (0x6a0f262a777a0e68403b5b6093634b3471f472ba), is functioning correctly on the Sepolia network.
 
